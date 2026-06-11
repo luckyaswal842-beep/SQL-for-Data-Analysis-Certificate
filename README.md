@@ -25,7 +25,8 @@ This course enhanced my understanding of SQL and its application in data analysi
 - **Certificate Code:** 10321447
 
 ## Certificate
-The certificate can be viewed in this repository.
+
+
 
 ## Learning Outcome
 This certification strengthened my ability to:
