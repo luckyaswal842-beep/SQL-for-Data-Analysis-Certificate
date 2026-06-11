@@ -24,10 +24,6 @@ This course enhanced my understanding of SQL and its application in data analysi
 - **Completion Date:** 8 June 2026
 - **Certificate Code:** 10321447
 
-## Certificate
-
-
-
 ## Learning Outcome
 This certification strengthened my ability to:
 - Retrieve and analyze large datasets
